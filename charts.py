@@ -41,3 +41,13 @@ plt.ylabel("Count")
 plt.tight_layout()
 plt.savefig("outputs/type_distribution.png")
 plt.show()
+
+# Chart 3: Horizontal bar chart
+plt.figure(figsize=(10, 6))
+sns.barplot(x='total', y='country', data=df_country, palette='coolwarm')
+plt.title("Top 10 Countries by Content Count")
+plt.xlabel("Content Count")
+plt.ylabel("Country")
+plt.tight_layout()
+plt.savefig("outputs/country_distribution.png")
+plt.show()
