@@ -5,3 +5,7 @@ df = pd.read_csv("data/netflix.csv")
 
 # Clean column names
 df.columns = [col.strip().replace(" ", "_").lower() for col in df.columns]
+
+# Create SQLite DB
+conn = sqlite3.connect("netflix.db")
+df.to_sql("netflix", conn, if_exists="replace", index=False)
