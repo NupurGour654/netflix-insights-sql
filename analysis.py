@@ -7,3 +7,13 @@ def run_query(query, desc):
     for row in cursor.execute(query):
         print(row)
     conn.close()
+
+# Queries
+q1 = """
+SELECT release_year, COUNT(*) as total
+FROM netflix
+WHERE release_year IS NOT NULL
+GROUP BY release_year
+ORDER BY release_year DESC
+LIMIT 10;
+"""
