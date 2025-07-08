@@ -31,3 +31,13 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig("outputs/year_trend.png")
 plt.show()
+
+# Chart 2: Bar chart
+plt.figure(figsize=(6, 4))
+sns.barplot(x='type', y='total', data=df_type, palette='Set2')
+plt.title("Content Distribution by Type")
+plt.xlabel("Type")
+plt.ylabel("Count")
+plt.tight_layout()
+plt.savefig("outputs/type_distribution.png")
+plt.show()
