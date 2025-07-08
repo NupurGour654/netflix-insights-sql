@@ -16,3 +16,18 @@ q1 = """SELECT release_year, COUNT(*) as total FROM netflix WHERE release_year I
 q2 = """SELECT type, COUNT(*) as total FROM netflix GROUP BY type;"""
 q3 = """SELECT country, COUNT(*) as total FROM netflix WHERE country IS NOT NULL GROUP BY country ORDER BY total DESC LIMIT 10;"""
 
+# Load results
+df_year = fetch_df(q1)
+df_type = fetch_df(q2)
+df_country = fetch_df(q3)
+
+# Chart 1: Line plot
+plt.figure(figsize=(12, 6))
+sns.lineplot(x='release_year', y='total', data=df_year, marker='o')
+plt.title("Content Release Trend Over Years")
+plt.xlabel("Year")
+plt.ylabel("Number of Titles")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig("outputs/year_trend.png")
+plt.show()
