@@ -34,4 +34,7 @@ GROUP BY country
 ORDER BY total DESC
 LIMIT 10;
 """
-
+# Run queries
+run_query(q1, "Top 10 Years with Most Releases")
+run_query(q2, "Movies vs TV Show Count")
+run_query(q3, "Top 10 Countries by Content Count")
