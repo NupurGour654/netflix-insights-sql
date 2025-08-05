@@ -11,7 +11,7 @@ Analyzed Netflix content using SQLite, SQL queries, and Python visualizations.
 ## 🚀 How to Run 
 1. Add `netflix.csv`
 2. Run `setup_db.py` to create `netflix.db`
-3. Run `analys,ca,dmfl ,lt4w;tl;356t;651is.py` for SQL insights
+3. Run `analysis.py` for SQL insights
 4. Run `charts.py` to generate visual plots
 
 ## 🧱 Stack
