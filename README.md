@@ -4,7 +4,7 @@ Analyzed Netflix content using SQLite, SQL queries, and Python visualizations.
 
 ## 📂 Features
 - Analyze trends by release year
-- Compare Mo,fm,smflS<RLG"vies vs TV Shows
+- Compare Movies vs TV Shows
 - Country-wise content statistics
 - Visualized using seaborn & matplotlib
 
