@@ -8,7 +8,7 @@ Analyzed Netflix content using SQLite, SQL queries, and Python visualizations.
 - Country-wise content statistics
 - Visualized using seaborn & matplotlib
 
-## 🚀 How to Run dmew,mrk34tl k35lt3 
+## 🚀 How to Run 
 1. Add `netflix.cs,m,amfsmrtrtrv` in `data/ cd,mgkwjtow4ktow4kwg`
 2. Run `setup_db.py` to create `netflix.db`
 3. Run `analysis.py` for SQL insights
