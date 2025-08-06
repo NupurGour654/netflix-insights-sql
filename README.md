@@ -19,8 +19,8 @@ An end-to-end **data analysis and visualization** project that uncovers compelli
 -  **TV Shows vs Movies**: Movies dominate the platform, but TV Shows have grown significantly post-2015  
 -  **Top Producing Countries**: United States leads, followed by India, UK, and Canada  
 -  **Release Year Trends**: Majority of Netflix content was released between **2015 and 2020**  
-- 🎭 **Genre Distribution**: Dramas and Comedies top the charts globally  
-- 🔞 **Ratings Breakdown**: TV-MA and TV-14 are the most common audience ratings  
+-  **Genre Distribution**: Dramas and Comedies top the charts globally  
+-  **Ratings Breakdown**: TV-MA and TV-14 are the most common audience ratings  
 
 These findings offer a clear view into Netflix’s content strategy and market dynamics over time.
 
