@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Explorer
+#  Netflix Data Explorer
 
 An end-to-end **data analysis and visualization** project that uncovers compelling insights from Netflix’s vast content catalog. Leveraging **SQLite**, **SQL**, and **Python**, this project demonstrates how raw data can be transformed into strategic knowledge — revealing **content trends**, **genre patterns**, **global production distribution**, and **evolution over time**.
 
