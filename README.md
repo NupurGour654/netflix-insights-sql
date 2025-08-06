@@ -4,7 +4,7 @@ An end-to-end data analysis project that transforms raw Netflix data into powerf
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project aims to:
 - Extract and manipulate data from a real-world Netflix dataset.
