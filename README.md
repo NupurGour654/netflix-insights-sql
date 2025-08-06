@@ -6,7 +6,7 @@ An end-to-end **data analysis and visualization** project that uncovers compelli
 
 ##  Project Highlights
 
-✅ Performed **SQL-based exploration** on 6,000+ Netflix titles  
+ Performed **SQL-based exploration** on 6,000+ Netflix titles  
 ✅ Identified **popular genres**, **country-wise content production**, and **content type trends**  
 ✅ Visualized **release year distribution**, **rating patterns**, and more using **Matplotlib & Seaborn**  
 ✅ Cleaned and normalized data using **Pandas** for deeper analysis  
