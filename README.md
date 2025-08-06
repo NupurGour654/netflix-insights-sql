@@ -29,9 +29,9 @@ These findings offer a clear view into Netflix’s content strategy and market d
 ##  Overview
 
 This project aims to:
-- 🔍 Extract & manipulate real-world Netflix data
-- 🧾 Perform **SQL queries** for deep pattern analysis
-- 📈 Visualize findings to support storytelling and insight-driven decisions
+-  Extract & manipulate real-world Netflix data
+-  Perform **SQL queries** for deep pattern analysis
+-  Visualize findings to support storytelling and insight-driven decisions
 
 Perfect for developing your skills in:
 - Structured Query Language (**SQL**)
