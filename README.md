@@ -27,5 +27,5 @@ Ideal for learning **SQL**, **data wrangling**, and **exploratory data analysis 
 
 
 
-## 🗃️ Dataset
+##  Dataset
 [Netflix Dataset - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
