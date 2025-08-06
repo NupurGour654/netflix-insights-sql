@@ -14,7 +14,7 @@ An end-to-end **data analysis and visualization** project that uncovers compelli
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 - 🎞️ **TV Shows vs Movies**: Movies dominate the platform, but TV Shows have grown significantly post-2015  
 - 🌍 **Top Producing Countries**: United States leads, followed by India, UK, and Canada  
