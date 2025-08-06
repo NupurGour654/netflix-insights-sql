@@ -4,7 +4,7 @@ An end-to-end **data analysis and visualization** project that uncovers compelli
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
 ✅ Performed **SQL-based exploration** on 6,000+ Netflix titles  
 ✅ Identified **popular genres**, **country-wise content production**, and **content type trends**  
