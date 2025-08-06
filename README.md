@@ -26,7 +26,7 @@ These findings offer a clear view into Netflix’s content strategy and market d
 
 ---
 
-## 📊 Overview
+##  Overview
 
 This project aims to:
 - 🔍 Extract & manipulate real-world Netflix data
