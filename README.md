@@ -40,7 +40,7 @@ Perfect for developing your skills in:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool/Library     | Role & Purpose                              |
 |------------------|----------------------------------------------|
