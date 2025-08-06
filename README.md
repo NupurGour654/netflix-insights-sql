@@ -15,7 +15,7 @@ Ideal for learning **SQL**, **data wrangling**, and **exploratory data analysis 
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 | Tool          | Purpose                            |
 |---------------|------------------------------------|
