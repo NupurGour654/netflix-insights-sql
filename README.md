@@ -52,7 +52,7 @@ Perfect for developing your skills in:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Source**: [Netflix Titles Dataset – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
 Contains details like `title`, `country`, `release year`, `rating`, `cast`, and `genre` for thousands of Netflix shows and movies.
